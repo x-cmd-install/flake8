@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:57:37Z
+  collectedAt: 2026-09-11T20:05:06Z
 timeline:
   created: 2014-09-13
   lastCommit: 2026-08-17
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 3822
+  star: 3823
   watcher: 37
-  fork: 355
+  fork: 356
   release: 0
   contributor: 177
   pullRequest: 416
@@ -83,7 +83,7 @@ total:
   commit: 2521
 ---
 path: /home/runner/.x-repo/github.com/pycqa/flake8
-collectedAt: 2026-09-11T04:57:39Z
+collectedAt: 2026-09-11T20:05:08Z
 loc:
   Python:
     code: 7886
