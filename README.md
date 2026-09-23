@@ -4,7 +4,7 @@
 
 flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 
-[![x-cmd/install — flake8 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flake8.svg)](https://x-cmd.com/install/flake8)
+[![x-cmd/install — flake8 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/flake8.svg)](https://x-cmd.com/install/flake8)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install flake8
 
 ## Code insight
 
-Total: **12,039** lines of code across **197** files in the top 5 languages.
+Total: **12,061** lines of code across **198** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 7,886 | 470 | 1,688 | 78 |
-| ReStructuredText | 3,976 | 0 | 1,878 | 113 |
+| Python | 7,889 | 470 | 1,688 | 78 |
+| ReStructuredText | 3,995 | 0 | 1,882 | 114 |
 | Ini | 111 | 5 | 14 | 2 |
 | ForgeConfig | 66 | 0 | 8 | 1 |
 | Text | 0 | 31 | 2 | 3 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,823 · **Forks**: 358 · **Open issues**: 1,618 · **Contributors**: 177
+- **Stars**: 3,824 · **Forks**: 359 · **Open issues**: 1,618 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 295 · **Open PRs**: 0 · **Closed issues**: 1595 · **Open issues**: 23 · **Commits**: 2521
+- **Releases**: 0 · **Merged PRs**: 298 · **Open PRs**: 0 · **Closed issues**: 1595 · **Open issues**: 23 · **Commits**: 2528
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 2 | 0 | 3 | 0 | 2 |
-| 90d | 2026-06-24 | 0 | 3 | 0 | 3 | 0 | 3 |
-| last180d | 2026-03-26 | 0 | 8 | 0 | 9 | 0 | 8 |
-| 360d | 2025-09-27 | 0 | 14 | 0 | 14 | 1 | 14 |
-| last720d | 2024-10-02 | 0 | 29 | 0 | 37 | 1 | 60 |
+| 30d | 2026-08-24 | 0 | 3 | 0 | 1 | 0 | 4 |
+| last60d | 2026-07-25 | 0 | 5 | 0 | 3 | 0 | 6 |
+| 90d | 2026-06-25 | 0 | 6 | 0 | 3 | 0 | 7 |
+| last180d | 2026-03-27 | 0 | 11 | 0 | 9 | 0 | 12 |
+| 360d | 2025-09-28 | 0 | 17 | 0 | 14 | 1 | 18 |
+| last720d | 2024-10-03 | 0 | 32 | 0 | 37 | 1 | 67 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flake8 lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:20:20Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:17:00Z._
