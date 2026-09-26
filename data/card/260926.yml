@@ -215,3 +215,4 @@ checks:
     score: 0
     reason: project is not fuzzed
     details: null
+---
