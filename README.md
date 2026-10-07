@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,825 · **Forks**: 363 · **Open issues**: 1,623 · **Contributors**: 177
+- **Stars**: 3,827 · **Forks**: 363 · **Open issues**: 1,623 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 300 · **Open PRs**: 1 · **Closed issues**: 1599 · **Open issues**: 24 · **Commits**: 2533
+- **Releases**: 0 · **Merged PRs**: 301 · **Open PRs**: 0 · **Closed issues**: 1599 · **Open issues**: 24 · **Commits**: 2534
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 5 | 1 | 4 | 1 | 7 |
-| last60d | 2026-08-07 | 0 | 7 | 1 | 6 | 1 | 9 |
-| 90d | 2026-07-08 | 0 | 8 | 1 | 7 | 1 | 10 |
-| last180d | 2026-04-09 | 0 | 11 | 1 | 12 | 1 | 13 |
-| 360d | 2025-10-11 | 0 | 19 | 1 | 18 | 2 | 21 |
-| last720d | 2024-10-16 | 0 | 34 | 1 | 40 | 2 | 72 |
+| 30d | 2026-09-07 | 0 | 6 | 0 | 4 | 1 | 8 |
+| last60d | 2026-08-08 | 0 | 8 | 0 | 6 | 1 | 10 |
+| 90d | 2026-07-09 | 0 | 9 | 0 | 7 | 1 | 11 |
+| last180d | 2026-04-10 | 0 | 12 | 0 | 12 | 1 | 14 |
+| 360d | 2025-10-12 | 0 | 20 | 0 | 18 | 2 | 22 |
+| last720d | 2024-10-17 | 0 | 35 | 0 | 40 | 2 | 73 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flake8 lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:50:04Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:21:07Z._
