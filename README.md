@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 305 · **Open PRs**: 1 · **Closed issues**: 1600 · **Open issues**: 24 · **Commits**: 2542
+- **Releases**: 0 · **Merged PRs**: 306 · **Open PRs**: 0 · **Closed issues**: 1600 · **Open issues**: 24 · **Commits**: 2544
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 10 | 1 | 4 | 1 | 12 |
-| last60d | 2026-08-14 | 0 | 12 | 1 | 6 | 1 | 12 |
-| 90d | 2026-07-15 | 0 | 12 | 1 | 7 | 1 | 14 |
-| last180d | 2026-04-16 | 0 | 16 | 1 | 13 | 1 | 18 |
-| 360d | 2025-10-18 | 0 | 23 | 1 | 19 | 2 | 25 |
-| last720d | 2024-10-23 | 0 | 39 | 1 | 40 | 2 | 81 |
+| 30d | 2026-09-14 | 0 | 11 | 0 | 4 | 1 | 13 |
+| last60d | 2026-08-15 | 0 | 13 | 0 | 5 | 1 | 13 |
+| 90d | 2026-07-16 | 0 | 13 | 0 | 7 | 1 | 15 |
+| last180d | 2026-04-17 | 0 | 17 | 0 | 13 | 1 | 19 |
+| 360d | 2025-10-19 | 0 | 24 | 0 | 19 | 2 | 26 |
+| last720d | 2024-10-24 | 0 | 40 | 0 | 40 | 2 | 83 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flake8 lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:09:02Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:09:00Z._
