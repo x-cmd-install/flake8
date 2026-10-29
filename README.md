@@ -14,12 +14,12 @@ x install flake8
 
 ## Code insight
 
-Total: **12,090** lines of code across **200** files in the top 5 languages.
+Total: **12,101** lines of code across **201** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 7,906 | 470 | 1,693 | 79 |
-| ReStructuredText | 4,006 | 0 | 1,886 | 115 |
+| ReStructuredText | 4,017 | 0 | 1,890 | 116 |
 | Ini | 112 | 5 | 14 | 2 |
 | ForgeConfig | 66 | 0 | 8 | 1 |
 | Text | 0 | 31 | 2 | 3 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,832 · **Forks**: 362 · **Open issues**: 1,625 · **Contributors**: 177
+- **Stars**: 3,833 · **Forks**: 362 · **Open issues**: 1,625 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 306 · **Open PRs**: 0 · **Closed issues**: 1601 · **Open issues**: 24 · **Commits**: 2544
+- **Releases**: 0 · **Merged PRs**: 307 · **Open PRs**: 0 · **Closed issues**: 1601 · **Open issues**: 24 · **Commits**: 2547
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 6 | 0 | 2 | 1 | 6 |
-| last60d | 2026-08-29 | 0 | 11 | 0 | 6 | 1 | 13 |
-| 90d | 2026-07-30 | 0 | 13 | 0 | 8 | 1 | 15 |
-| last180d | 2026-05-01 | 0 | 16 | 0 | 12 | 1 | 18 |
-| 360d | 2025-11-02 | 0 | 24 | 0 | 18 | 2 | 26 |
-| last720d | 2024-11-07 | 0 | 40 | 0 | 40 | 2 | 83 |
+| 30d | 2026-09-29 | 0 | 7 | 0 | 2 | 1 | 8 |
+| last60d | 2026-08-30 | 0 | 12 | 0 | 6 | 1 | 15 |
+| 90d | 2026-07-31 | 0 | 14 | 0 | 8 | 1 | 17 |
+| last180d | 2026-05-02 | 0 | 17 | 0 | 11 | 1 | 20 |
+| 360d | 2025-11-03 | 0 | 25 | 0 | 18 | 2 | 28 |
+| last720d | 2024-11-08 | 0 | 41 | 0 | 40 | 2 | 86 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flake8 lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:53:43Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:06:05Z._
