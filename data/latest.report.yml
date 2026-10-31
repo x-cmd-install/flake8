@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:10:44Z
+  collectedAt: 2026-10-31T05:55:12Z
 timeline:
   created: 2014-09-13
   lastCommit: 2026-10-28
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 3832
+  star: 3833
   watcher: 37
-  fork: 363
+  fork: 364
   release: 0
   contributor: 177
   pullRequest: 425
@@ -27,7 +27,7 @@ language:
 totalBytes: 307469
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 7
     openPR: 0
@@ -35,7 +35,7 @@ recent:
     openIssue: 1
     commit: 8
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 12
     openPR: 0
@@ -43,7 +43,7 @@ recent:
     openIssue: 1
     commit: 15
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
     mergedPR: 14
     openPR: 0
@@ -51,7 +51,7 @@ recent:
     openIssue: 1
     commit: 17
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
     mergedPR: 17
     openPR: 0
@@ -59,7 +59,7 @@ recent:
     openIssue: 1
     commit: 20
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
     mergedPR: 25
     openPR: 0
@@ -67,11 +67,11 @@ recent:
     openIssue: 2
     commit: 28
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
     mergedPR: 41
     openPR: 0
-    closedIssue: 40
+    closedIssue: 39
     openIssue: 2
     commit: 86
 total:
@@ -83,7 +83,7 @@ total:
   commit: 2547
 ---
 path: /home/runner/.x-repo/github.com/pycqa/flake8
-collectedAt: 2026-10-30T06:10:45Z
+collectedAt: 2026-10-31T05:55:13Z
 loc:
   Python:
     code: 7906
