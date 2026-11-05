@@ -14,11 +14,11 @@ x install flake8
 
 ## Code insight
 
-Total: **12,101** lines of code across **201** files in the top 5 languages.
+Total: **12,108** lines of code across **201** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 7,906 | 470 | 1,693 | 79 |
+| Python | 7,913 | 471 | 1,696 | 79 |
 | ReStructuredText | 4,017 | 0 | 1,890 | 116 |
 | Ini | 112 | 5 | 14 | 2 |
 | ForgeConfig | 66 | 0 | 8 | 1 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 307 · **Open PRs**: 1 · **Closed issues**: 1601 · **Open issues**: 24 · **Commits**: 2547
+- **Releases**: 0 · **Merged PRs**: 309 · **Open PRs**: 0 · **Closed issues**: 1601 · **Open issues**: 24 · **Commits**: 2551
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 7 | 1 | 1 | 0 | 3 |
-| last60d | 2026-09-05 | 0 | 12 | 1 | 5 | 1 | 15 |
-| 90d | 2026-08-06 | 0 | 14 | 1 | 7 | 1 | 17 |
-| last180d | 2026-05-08 | 0 | 17 | 1 | 11 | 1 | 19 |
-| 360d | 2025-11-09 | 0 | 25 | 1 | 17 | 2 | 27 |
-| last720d | 2024-11-14 | 0 | 41 | 1 | 39 | 2 | 86 |
+| 30d | 2026-10-06 | 0 | 8 | 0 | 1 | 0 | 5 |
+| last60d | 2026-09-06 | 0 | 14 | 0 | 5 | 1 | 17 |
+| 90d | 2026-08-07 | 0 | 16 | 0 | 7 | 1 | 19 |
+| last180d | 2026-05-09 | 0 | 19 | 0 | 11 | 1 | 21 |
+| 360d | 2025-11-10 | 0 | 26 | 0 | 17 | 2 | 29 |
+| last720d | 2024-11-15 | 0 | 43 | 0 | 39 | 2 | 90 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flake8 lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:39:26Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:59:10Z._
